@@ -1,0 +1,9 @@
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\bin\Debug\BinHeap.exe.config
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\bin\Debug\BinHeap.exe
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\bin\Debug\BinHeap.pdb
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeapReduce.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeap.Form1.resources
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeap.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeapReduce.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeap.exe
+C:\Users\Анатолий\Desktop\BinHeapF\BinHeap\BinHeap\obj\Debug\BinHeap.pdb

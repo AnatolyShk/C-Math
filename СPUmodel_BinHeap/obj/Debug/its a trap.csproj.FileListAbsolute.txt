@@ -1,0 +1,18 @@
+E:\BinHeapT1\BinHeap\bin\Debug\BinHeap.exe.config
+E:\BinHeapT1\BinHeap\bin\Debug\BinHeap.exe
+E:\BinHeapT1\BinHeap\bin\Debug\BinHeap.pdb
+E:\BinHeapT1\BinHeap\obj\Debug\its a trap.csprojResolveAssemblyReference.cache
+E:\BinHeapT1\BinHeap\obj\Debug\BinHeap.Form1.resources
+E:\BinHeapT1\BinHeap\obj\Debug\BinHeap.Properties.Resources.resources
+E:\BinHeapT1\BinHeap\obj\Debug\its a trap.csproj.GenerateResource.Cache
+E:\BinHeapT1\BinHeap\obj\Debug\BinHeap.exe
+E:\BinHeapT1\BinHeap\obj\Debug\BinHeap.pdb
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\bin\Debug\BinHeap.exe.config
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\bin\Debug\BinHeap.exe
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\bin\Debug\BinHeap.pdb
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\its a trap.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\BinHeap.Form1.resources
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\BinHeap.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\its a trap.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\BinHeap.exe
+C:\Users\Анатолий\Desktop\BinHeapT1\BinHeap\obj\Debug\BinHeap.pdb
