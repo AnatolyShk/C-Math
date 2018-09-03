@@ -37,8 +37,6 @@ namespace ConsoleApplication33
                         count[j] = count[j] + 1; // При соответствии счетчик для данной буквы алфавита увеличивается на 1 
 
                     }
-
-
                 }
             }
 
@@ -56,11 +54,8 @@ namespace ConsoleApplication33
                 }
             }
 
-
-
             Console.WriteLine("!!!Введите количество букв в словах которые будут отображены в подсчете статистики!!! ");
             int paramSlov = Convert.ToInt32(Console.ReadLine());
-
 
             string[] Slovar = new string[str.Length + 1];  //Записываем слова из исходного текста в массив "словарь"
             for (int i = 0; i < str.Length; i++)
@@ -76,12 +71,9 @@ namespace ConsoleApplication33
 
                         }
                     }
-
-
                 }
             }
             int[] countSlov = new int[Slovar.Length];
-
 
             for (int i = 0; i < Slovar.Length; i++) // Делаем проверку на совпадение слов из исходного текста с словами из словаря 
             {
@@ -93,8 +85,6 @@ namespace ConsoleApplication33
                     {
                         countSlov[i] = countSlov[i] + 1; // При соответствии счетчик для данной буквы алфавита увеличивается на 1 
                     }
-
-
                 }
             }
 
@@ -121,19 +111,8 @@ namespace ConsoleApplication33
                 }
             }
             Console.WriteLine();
-
             Console.ReadKey();
         }
-
-
-
-
-
-
-
-
-
     }
-
 }
 
